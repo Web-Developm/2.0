@@ -1,0 +1,86 @@
+/*Nav-bar*/
+.navbar{
+  padding:0.2rem 2rem;
+  background: #005C97;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #363795, #005C97);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #363795, #005C97); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+
+}
+.navbar-brand{
+  font-size: 30px;
+  font-family: 'Domine', serif;
+}
+
+.icon{
+  font-size:30px;
+  line-height: .5rem;
+
+}
+.navbar-item{
+  font-size:17px;
+  text-indent: 10px;
+}
+
+.nav-link{
+  font-weight:500;
+  color:#808080;
+  font-family: 'Raleway', sans-serif;
+}
+
+.nav-link:hover{
+  color:white;
+}
+
+
+/*carousel*/
+#demo{
+  margin-top:0px;
+}
+
+
+
+/*Profile*/
+.container{
+  padding-top:200px;
+}
+
+
+/*get*/
+.display-4{
+}
+.btn{
+  border-radius:25px 25px;
+}
+
+/*form*/
+
+input[type="text"], input[type="email"]{
+
+}
+label{
+  font-weight:bold;
+}
+span{
+  color:red;
+  font-weight:bold;
+}
+
+#form{
+  padding-bottom:100px;
+}
+
+
+/*footer*/
+#footer{
+background-color:#373a40;
+padding-top:20px;
+padding-bottom:10px;
+margin:0px;
+color:white;
+width:100%;
+text-align:center;
+font-size:20px;
+}
