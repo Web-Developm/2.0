@@ -13,7 +13,7 @@
   </tr>
  </table>
  
- <h1>Screenshort 1</h1>
+ <h1>Template</h1>
 ![Annotation 2020-10-25 162854](https://user-images.githubusercontent.com/34743233/97105355-0bb79c80-16e0-11eb-9015-a27b180a74d2.png)
 
 
