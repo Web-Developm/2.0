@@ -1,0 +1,113 @@
+/*name*/
+h1{
+  text-align:center;
+  font-size:70px;
+  line-height:1.5;
+  font-weight:700;
+}
+@media(max-width:1020px)
+{
+  h1{
+    font-size:45px;
+  }
+
+}
+
+.title{
+  text-align:center;
+  line-height:1.5;
+  font-size:40px;
+  font-weight:300;
+}
+
+
+@media (max-width:1020px)
+{
+.title{
+    font-size:35px;
+  }
+}
+
+.top-hr{
+  border-color:white;
+  width:43%;
+}
+
+
+@media (max-width:1020px){
+  .top-hr{
+      width:80%;
+  }
+}
+#name{
+  padding-top:150px;
+  padding-bottom:275px;
+  background-color: #000000;
+  color:white;
+  background-image: url("pexels-gabby-k-5634606 (1).jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+}
+
+@media (max-width:1020px){
+  #name{
+
+    padding-top:135px;
+    padding-bottom:250px;
+  }
+}
+
+
+/*about*/
+
+h2{
+  line-height:1;
+  padding-top:50px;
+  font-size:50px;
+  font-weight:350;
+}
+
+#about{
+  padding:0px;
+  background-color: #ffffff;
+}
+
+.profile-hr{
+  width:70%;
+}
+.row{
+  padding:50px;
+}
+
+p{
+  font-size:18px;
+  font-weight:300;
+}
+@media (max-width:1020px)
+{
+  p{
+    font-size:18px;
+  }
+}
+
+h3{
+  line-height:2.5;
+  font-weight:450;
+}
+
+.pos-title{
+  font-size:20px;
+  line-height:4;
+  font-weight:320;
+}
+
+
+details{
+  text-align:justify;
+}
+@media (max-width:1020px){
+  #details{
+    text-align:center;
+  }
+}
